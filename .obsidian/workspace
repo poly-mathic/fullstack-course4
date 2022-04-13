@@ -1,0 +1,121 @@
+{
+  "main": {
+    "id": "200eb65e0b0aa7b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "2890fb82d51edbb6",
+        "type": "split",
+        "children": [
+          {
+            "id": "55e897f2d3d55728",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "examples/Lecture14/Lecture 14.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "3059d29f7d1d82f7"
+          },
+          {
+            "id": "0113fd7d6cfcf799",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "examples/Lecture14/Lecture 14.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            },
+            "group": "3059d29f7d1d82f7"
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b4b23b221a3a5550",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5fb62449a4946ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9207efc511712a1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7cbadf1a7504055b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9694c98e465a3d92",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbaac76495813e78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4aeae973f507285",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "examples/Lecture14/Lecture 14.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "55e897f2d3d55728",
+  "lastOpenFiles": [
+    "examples/Lecture14/Lecture 14.md",
+    "Notebook/Lecture 6.md",
+    "Notebook/Lecture 5.md"
+  ]
+}
